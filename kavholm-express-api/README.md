@@ -1,1 +1,0 @@
-# Kavholm AirBnB Clone Node/Express/PostgreSQL API
